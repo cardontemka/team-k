@@ -1,0 +1,13 @@
+.contain {
+    height: 100vh;
+}
+
+.textContain {
+    width: 30vw;
+    height: 60vh;
+    color: black;
+}
+
+.title {
+    font-size: 3vw;
+}
